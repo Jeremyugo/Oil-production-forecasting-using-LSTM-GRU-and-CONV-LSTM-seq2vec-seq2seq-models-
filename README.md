@@ -15,3 +15,5 @@ To run this project, you will need to install the required libraries and depende
 
 ## Conclusion
 This project demonstrates the effectiveness of RNN models for oil production forecasting and provides insights into the performance of different RNN architectures. The CONV-LSTM model with Seq2Vec variant shows the best forecasting performance and can be used for future oil production forecasting.
+
+![image](https://user-images.githubusercontent.com/36512525/229262428-2532f11c-4bab-4bd7-9185-7833d5559a51.png)
